@@ -26,6 +26,7 @@ const Bio = () => {
           author
           social {
             twitter
+            facebook
           }
         }
       }
@@ -55,10 +56,10 @@ const Bio = () => {
       />
       <p>
         Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Ramon as Data Scientist.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a href={`https://facebook.com/${social.facebook}`}>
+          My facebook Profile
         </a>
       </p>
     </div>
