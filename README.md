@@ -1,6 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
 <!--   <a href="https://www.gatsbyjs.org"> -->
+<a>
     <img alt="Gatsby" src="picture/personalpic.jpg" width="60" />
   </a>
 </p>
