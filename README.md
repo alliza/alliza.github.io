@@ -1,6 +1,6 @@
-![](picture/bg.gif)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
+<p align="center"  ![](picture/bg.gif)>
 <!--   <a href="https://www.gatsbyjs.org"> -->
 <a>
     <img  src="picture/personalpic.jpg" width="60" border-radius="100%"/>
