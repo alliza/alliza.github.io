@@ -5,13 +5,13 @@
     <img alt="Gatsby" src="picture/personalpic.jpg" width="60" radius="50%"/>
   </a>
 </p>
-<h1 align="center">
-  Name: Aliza Bista
-  Data Engineer at Chevron
-  Education: Bachlor's Degree in Computer Science,
-  Louisiana State University
+<h4 align="center">
+  Name: Aliza Bista<br>
+  Data Engineer at Chevron<br>
+  Education: Bachlor's Degree in Computer Science,<br>
+  Louisiana State University<br>
   
-</h1>
+</h4>
 
 Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
