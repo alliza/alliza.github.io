@@ -1,5 +1,5 @@
+---?image=picture/bg.gif
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-?image=picture/bg.gif
 <p align="center">
 <!--   <a href="https://www.gatsbyjs.org"> -->
 <a>
