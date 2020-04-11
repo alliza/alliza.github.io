@@ -2,7 +2,7 @@
 <p align="center">
 <!--   <a href="https://www.gatsbyjs.org"> -->
 <a>
-    <img alt="Gatsby" src="picture/personalpic.jpg" width="60" radius="50%"/>
+    <img alt="Gatsby" src="picture/personalpic.jpg" width="60" border-radius="50%"/>
   </a>
 </p>
 <h4 align="center">
