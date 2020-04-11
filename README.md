@@ -3,7 +3,7 @@
 <p align="center" >
 <!--   <a href="https://www.gatsbyjs.org"> -->
 <a>
-    ![](picture/bg.gif <img  src="picture/personalpic.jpg" width="60" border-radius="100%"/>)
+    ![](picture/bg.gif) <img  src="picture/personalpic.jpg" width="60" border-radius="100%"/>
     
   </a>
 </p>
