@@ -1,9 +1,9 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center"  ![](picture/bg.gif)>
+<p align="center" >
 <!--   <a href="https://www.gatsbyjs.org"> -->
 <a>
-    <img  src="picture/personalpic.jpg" width="60" border-radius="100%"/>
+    ![](picture/bg.gif)<img  src="picture/personalpic.jpg" width="60" border-radius="100%"/>
   </a>
 </p>
 <h4 align="center">
