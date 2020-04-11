@@ -8,7 +8,7 @@
 <h4 align="center">
   Name: Aliza Bista<br>
   Data Engineer at Chevron<br>
-  Education: Bachlor's Degree in Computer Science,<br>
+  Bachelor's Degree in Computer Science,<br>
   Louisiana State University<br>
   
 </h4>
