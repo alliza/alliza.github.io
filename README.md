@@ -1,20 +1,12 @@
-![](picture/bg.gif) 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center" >
+<p align="center">
 <!--   <a href="https://www.gatsbyjs.org"> -->
-
-<a>
-    <img  src="picture/personalpic.jpg" width="60" border-radius="100%"/>
-    
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-<h4 align="center">
-  Name: Aliza Bista<br>
-  Data Engineer at Chevron<br>
-  Bachelor's Degree in Computer Science,<br>
-  Louisiana State University<br>
-  
-</h4>
+<h1 align="center">
+  Gatsby's blog starter
+</h1>
 
 Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
